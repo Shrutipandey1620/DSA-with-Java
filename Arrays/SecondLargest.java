@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
-package Arrays;
 
 public class SecondLargest {
     public static int findSl(int l,int sl, int arr[]){
@@ -22,4 +18,3 @@ public static void main(String[] args) {
     System.out.println(findSl(sl,l,arr));
 }
 }
->>>>>>> 4ba7f69 (Add SecondLargest solution)
